@@ -1,4 +1,4 @@
-### Notes
+# Notes
 
 this is a project so i can learn full stack with spring boot and angular
 
